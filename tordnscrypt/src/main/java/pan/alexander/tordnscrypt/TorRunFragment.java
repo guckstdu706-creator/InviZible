@@ -1,4 +1,4 @@
-package pan.alexander.tordnscrypt;
+ package pan.alexander.tordnscrypt;
 
 /*
     This file is part of InviZible Pro.
